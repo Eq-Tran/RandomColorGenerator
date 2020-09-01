@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomColorGenerator</string>
+    <string name="button">Press Me</string>
+    <string name="counterView">0</string>
+</resources>
